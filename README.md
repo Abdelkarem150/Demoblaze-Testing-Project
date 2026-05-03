@@ -1,11 +1,11 @@
-# 🧪 Demoblaze Testing Project
+ Demoblaze Testing Project
 
 A complete **Manual Testing Portfolio Project** for [Demoblaze](https://www.demoblaze.com) — a demo e-commerce website.  
 This project covers the full manual testing lifecycle: test planning, test case design, test execution, and bug reporting.
 
 ---
 
-## 📋 Project Overview
+ Project Overview
 
 | Item | Details |
 |---|---|
@@ -19,7 +19,7 @@ This project covers the full manual testing lifecycle: test planning, test case 
 
 ---
 
-## 📁 Project Structure
+ Project Structure
 
 ```
 Demoblaze-Testing-Project/
@@ -39,23 +39,18 @@ Demoblaze-Testing-Project/
     └── BUG-009 — Contact form empty submit
 ```
 
----
-
-## 🗂️ Sprints Breakdown
+ Sprints Breakdown
 
 | Sprint | User Stories | Focus Area |
-|---|---|---|
 | Sprint 1 | US-01 → US-05 | Authentication & Home Page |
 | Sprint 2 | US-06 → US-10 | Navigation, Product Details & Cart |
 | Sprint 3 | US-11 → US-15 | Checkout, Validation & Static Pages |
 | Sprint 4 | US-16 → US-20 | Session, Security & Responsiveness |
 
----
 
-## 🐛 Bug Summary
+ Bug Summary
 
 | Bug ID | TC ID | Title | Severity |
-|---|---|---|---|
 | BUG-001 | TC-014 | Broken image icon shown instead of placeholder | Minor |
 | BUG-002 | TC-020 | Previous button works on first page | Medium |
 | BUG-003 | TC-023 | Invalid URL shows "undefined" data | High |
@@ -66,32 +61,26 @@ Demoblaze-Testing-Project/
 | BUG-008 | TC-037 | Name field accepts numeric-only input | Medium |
 | BUG-009 | TC-042 | Contact form submits with all fields empty | Medium |
 
-### 🔍 Key Observation
+ Key Observation
 A recurring pattern of **zero input validation** was identified across multiple forms (Checkout, Contact, Cart) — indicating a systemic validation issue rather than isolated bugs.
 
----
 
-## ✅ Test Execution Summary
+ Test Execution Summary
 
 | Status | Count |
-|---|---|
 | ✅ Pass | 39 |
 | ❌ Fail | 13 |
-| **Total** | **52** |
+| Total | 52 |
 
----
 
-## 🛠️ Tools Used
+ Tools Used
 
-- **Jira** — Project management, Sprint planning, Bug tracking
-- **Excel** — Test case documentation
-- **Chrome DevTools** — Bug investigation and simulation
-- **GitHub** — Version control and portfolio hosting
+- Jira — Project management, Sprint planning, Bug tracking
+- Excel — Test case documentation
+- Chrome DevTools** — Bug investigation and simulation
+- GitHub — Version control and portfolio hosting
 
----
 
-## 👤 Author
-
-**Abdelkarem Fathi**  
+Abdelkarem Fathi
 Junior QA Tester  
 🔗 [GitHub Profile](https://github.com/Abdelkarem150)
